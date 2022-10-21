@@ -1,3 +1,0 @@
-SS(LoginREST.ss) = CustomerREST, CustomerInfo, CustomerService, LoginREST
-SS(RESTCookieSessionFilter.ss) = ServiceLocator, AddressInfo, FlightService, AcmeAirApp, RESTCookieSessionFilter, FlightsREST, BookingsREST, AcmeAirConfiguration, FlightServiceImpl, FlightLoader, AirportCodeMapping, KeyGenerator, SessionLoader, BookingLoader, Loader, LoaderREST
-SS(BookingServiceImpl.ss) = CustomerServiceImpl, CustomerLoader, AuthServiceImpl, ConnectionManager, BookingServiceImpl, AuthService
